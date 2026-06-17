@@ -29,6 +29,14 @@ Free Fire Tournament Management Platform is a full-stack esports web application
 * Production Deployment
 * Modern Gaming-Focused User Experience
 
+## Payment System
+
+This platform currently uses a manual payment verification process.
+
+- Entry fees are paid through approved payment methods provided by the admin.
+- Tournament registration is confirmed only after payment verification.
+- No automated payment gateway is currently integrated.
+
 ---
 
 ## Tech Stack
@@ -75,12 +83,6 @@ Free Fire Tournament Management Platform is a full-stack esports web application
 
 ---
 
-## Project Metrics
-
-* 88+ Unique Visitors
-* 680+ Page Views
-* 4+ Minutes Average Session Duration
-* Production Deployment with Real User Traffic
 
 ---
 
@@ -120,9 +122,9 @@ README.md
 * User Authentication System
 * Match History Tracking
 * Tournament Notifications
-* Payment Gateway Integration
 * Advanced Tournament Analytics
 * Enhanced Administrative Controls
+* Enhanced Payment Verification System
 
 ---
 
@@ -132,6 +134,17 @@ README.md
 
 ---
 
+## Important Notice
+
+This platform is privately operated for commercial esports tournaments.
+
+All tournament participation, rewards, and registrations are subject to platform rules and administrative verification.
+
+
 ## License
 
-This project is intended for portfolio, educational, and esports tournament management purposes.
+This project is proprietary software.
+
+Unauthorized copying, modification, distribution, or commercial use of any part of this codebase is prohibited.
+
+See the LICENSE file for full terms.
