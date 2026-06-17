@@ -8,6 +8,20 @@ Production-ready full-stack Free Fire tournament management platform built with 
 
 ---
 
+## Table of Contents
+
+- Overview
+- Key Features
+- Payment System
+- Tech Stack
+- Screenshots
+- Architecture Highlights
+- Project Structure
+- Future Enhancements
+- Author
+- Important Notice
+- License
+
 ## Overview
 
 Free Fire Tournament Management Platform is a full-stack esports web application designed to streamline tournament operations and player participation. The platform provides an intuitive interface for browsing active tournaments, viewing prize pools, registering for matches, and tracking tournament outcomes, while enabling administrators to manage tournament data and operations efficiently.
@@ -130,7 +144,9 @@ README.md
 
 ## Author
 
-**Sameer Gandhi**
+Sameer Gandhi
+
+Full-Stack Developer
 
 ---
 
